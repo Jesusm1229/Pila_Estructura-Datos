@@ -1,0 +1,14 @@
+<menu_almuerzo>
+	<comida>
+            <nombre>Waffles</nombre>
+           <precio>Bs 2000.00</precio>
+          <descripcion>Waffles baratos McDonalds</descripcion>
+            <calorias>650</calorias>
+	</comida>
+	<comida>
+<nombre>Hamburguesa</nombre>
+<precio> Bs 5000.00</precio>
+<descripcion>La hamburguesa McDonalds</descripcion>
+<calorias>1500</calorias>
+</comida>
+</menu_almuerzo>
